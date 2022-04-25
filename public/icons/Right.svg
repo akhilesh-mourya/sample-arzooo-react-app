@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Chevron_right" data-name="Chevron right" transform="translate(-1728.272 -1442.995)">
+    <g id="Group_7777" data-name="Group 7777" transform="translate(1737.362 1449.496)">
+      <g id="Group_7776" data-name="Group 7776">
+        <path id="Path_22805" data-name="Path 22805" d="M1770.136,1475.256a.748.748,0,0,1-.53-.22l-4.756-4.756a.75.75,0,0,1,1.061-1.061l4.756,4.756a.75.75,0,0,1-.53,1.28Z" transform="translate(-1764.63 -1469)" fill="#1a1818"/>
+        <path id="Path_22806" data-name="Path 22806" d="M1765.432,1494.269a.75.75,0,0,1-.53-1.28l4.744-4.744a.75.75,0,0,1,1.06,1.061l-4.744,4.744A.747.747,0,0,1,1765.432,1494.269Z" transform="translate(-1764.669 -1483.269)" fill="#1a1818"/>
+      </g>
+    </g>
+    <rect id="Rectangle_2183" data-name="Rectangle 2183" width="24" height="24" transform="translate(1728.272 1442.995)" fill="none"/>
+  </g>
+</svg>

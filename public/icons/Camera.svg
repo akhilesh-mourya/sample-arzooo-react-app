@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Camera_icon" data-name="Camera icon" transform="translate(0.043)">
+    <g id="Group_76" data-name="Group 76" transform="translate(1.635 3.064)">
+      <path id="Path_208" data-name="Path 208" d="M409.4,4553.935H393.038a2.268,2.268,0,0,1-2.266-2.266v-10.32a2.269,2.269,0,0,1,2.266-2.266H409.4a2.269,2.269,0,0,1,2.266,2.266v10.32A2.268,2.268,0,0,1,409.4,4553.935Zm-16.363-13.341a.756.756,0,0,0-.755.755v10.32a.756.756,0,0,0,.755.755H409.4a.756.756,0,0,0,.755-.755v-10.32a.756.756,0,0,0-.755-.755Z" transform="translate(-390.772 -4536.083)" fill="#52616b"/>
+      <path id="Path_209" data-name="Path 209" d="M446.407,4530.92H444.9v-1.611a.617.617,0,0,0-.6-.633h-1.575a.538.538,0,0,0-.6.526v1.718h-1.51V4529.2a2.028,2.028,0,0,1,2.108-2.037H444.3a2.128,2.128,0,0,1,2.107,2.144Z" transform="translate(-428.069 -4527.166)" fill="#52616b"/>
+      <path id="Path_210" data-name="Path 210" d="M418.879,4559.695a4.506,4.506,0,1,1,4.506-4.506A4.511,4.511,0,0,1,418.879,4559.695Zm0-7.5a3,3,0,1,0,3,3A3,3,0,0,0,418.879,4552.193Z" transform="translate(-408.432 -4544.763)" fill="#52616b"/>
+    </g>
+    <rect id="Rectangle_34" data-name="Rectangle 34" width="24" height="24" transform="translate(-0.043)" fill="none"/>
+  </g>
+</svg>

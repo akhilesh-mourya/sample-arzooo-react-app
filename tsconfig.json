@@ -1,0 +1,73 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "esnext"
+        ],
+        "allowJs": true,
+        "skipLibCheck": true,
+        "strict": false,
+        "forceConsistentCasingInFileNames": true,
+        "noEmit": true,
+        "esModuleInterop": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "jsx": "preserve",
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": "./",
+        "paths": {
+            "@/*": [
+                "/*"
+            ],
+            "@/components/*": [
+                "./src/components/*"
+            ],
+            "@/atoms/*": [
+                "./src/components/atoms/*"
+            ],
+            "@/molecules/*": [
+                "./src/components/molecules/*"
+            ],
+            "@/organisms/*": [
+                "./src/components/organisms/*"
+            ],
+            "@/config/*": [
+                "./src/config/*"
+            ],
+            "@/hooks/*": [
+                "./src/hooks/*"
+            ],
+            "@/api/*": [
+                "./src/api/*"
+            ],
+            "@/helpers/*": [
+                "./src/helpers/*"
+            ],
+            "@/services/*": [
+                "./src/services/*"
+            ],
+            "@/assets/*": [
+                "./src/assets/*"
+            ],
+            "@/context/*": [
+                "./src/context/*"
+            ],
+            "@/constants/*": [
+                "./src/constants/*"
+            ]
+        },
+        "incremental": true
+    },
+    "include": [
+        "next-env.d.ts",
+        "**/*.ts",
+        "**/*.tsx"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

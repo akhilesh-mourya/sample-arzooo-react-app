@@ -1,0 +1,18 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "arzooonativeapp",
+      "package_name": "com.arzooonative.development",
+      "sha256_cert_fingerprints":
+      ["90:72:6D:21:8B:91:8E:E7:18:54:1A:43:15:28:CA:20:87:91:76:0B:6F:9A:FA:B6:61:B7:CB:04:C7:25:E2:0E"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "arzooonativeapp",
+      "package_name": "com.arzooonative",
+      "sha256_cert_fingerprints":
+      ["90:72:6D:21:8B:91:8E:E7:18:54:1A:43:15:28:CA:20:87:91:76:0B:6F:9A:FA:B6:61:B7:CB:04:C7:25:E2:0E"]
+    }
+}]

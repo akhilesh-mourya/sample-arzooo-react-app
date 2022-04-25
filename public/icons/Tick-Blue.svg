@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="178" height="178" viewBox="0 0 178 178">
+  <defs>
+    <filter id="Ellipse_9" x="0" y="0" width="178" height="178" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="13" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-color="#22c0e7" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7904" data-name="Group 7904" transform="translate(-133 -303)">
+    <g transform="matrix(1, 0, 0, 1, 133, 303)" filter="url(#Ellipse_9)">
+      <circle id="Ellipse_9-2" data-name="Ellipse 9" cx="62" cy="62" r="62" transform="translate(19 14)" fill="#22c0e7"/>
+    </g>
+    <path id="Icon_feather-check" data-name="Icon feather-check" d="M45.864,9,18.457,36.406,6,23.949" transform="translate(188.068 356.297)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+  </g>
+</svg>

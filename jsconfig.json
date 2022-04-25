@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "allowSyntheticDefaultImports": false,
+        "baseUrl": "./",
+        "paths": {
+            "@/*": ["/*"],
+            "@/components/*": ["./src/components/*"],
+            "@/atoms/*": ["./src/components/atoms/*"],
+            "@/molecules/*": ["./src/components/molecules/*"],
+            "@/organisms/*": ["./src/components/organisms/*"],
+            "@/config/*": ["./src/config/*"],
+            "@/utils/*": ["./src/utils/*"],
+            "@/static/*": ["./src/static/*"],
+            "@/helpers/*": ["./src/helpers/*"],
+            "@/constants/*": ["./src/constants/*"]
+        }
+    },
+}
